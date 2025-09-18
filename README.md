@@ -7,8 +7,8 @@ Tenho experiência em **boas práticas de versionamento (Git/GitHub)**, modelage
 
 ## 🌍 Contato
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-USUARIO)
-[![Gmail Badge](https://img.shields.io/badge/Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:luispeixotoneto@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luis-quintas-neto/)](https://www.linkedin.com/in/luis-quintas-neto/) 
+[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luispeixotoneto@gmail.com)](mailto:luispeixotoneto@gmail.com)
 
 --
 
