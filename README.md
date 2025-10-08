@@ -17,9 +17,6 @@ Tenho experiência em **boas práticas de versionamento (Git/GitHub)**, modelage
 - **Práticas:** Estruturas de dados, algoritmos, boas práticas de código, organização em projetos  
 
 
-## 📊 Estatísticas GitHub
-![Luis GitHub stats](https://github-readme-stats.vercel.app/api?username=luisqcpn&show_icons=true&theme=radical)
-
 
 📌 Aberto a oportunidades como **Desenvolvedor Fullstack**, e me especializando na área de Analytics e BI.  
 
