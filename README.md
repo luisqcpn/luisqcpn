@@ -11,7 +11,8 @@ Tenho experiência em **boas práticas de versionamento (Git/GitHub)**, modelage
 
 
 ## 🚀 Principais Competências
-- **Back-end:** Java (POO, JDBC, coleções, APIs) | Python (automação, scripts, estruturas)  
+- **Back-end:** Python (automação, scripts, estruturas)
+- **Front-end:** HTML, CSS, JavaScript
 - **Banco de Dados:** SQL (modelagem e queries)  
 - **Ferramentas:** Git/GitHub, OpenGL  
 - **Práticas:** Estruturas de dados, algoritmos, boas práticas de código, organização em projetos  
