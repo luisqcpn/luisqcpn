@@ -18,5 +18,5 @@ Tenho experiência em **boas práticas de versionamento (Git/GitHub)**, modelage
 
 
 
-📌 Aberto a oportunidades como **Desenvolvedor Fullstack**, e me especializando na área de Analytics e BI.  
+📌 Aberto a oportunidades como **Desenvolvedor Fullstack**, e me especializando em Analytics e BI.  
 
